@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GirisKayıt</string>
+    <string name="title_activity_main_kayıt_ol">MainKayıtOl</string>
+    <string name="title_activity_main_ana_sayfa">MainActivity_AnaSayfa</string>
+</resources>
